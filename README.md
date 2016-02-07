@@ -1,4 +1,4 @@
-# Unity-Mobile-Game_PopBubbles
+# Unity Mobile Game - Pop Bubbles
 Unity 2D Mobile Game for Android and iOS
 
 - No art has been done yet.
